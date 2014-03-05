@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Reading on Weekends 1"
+category : Links
+---
+
+* [Dodgy Coder: How to Become a Better Programmer](http://www.dodgycoder.net/2011/10/how-to-become-better-programmer.html)
+* [7 Internet Words You’ve Been Mispronouncing Like “GIF” | Digg Technology](http://digg.com/newsbar/Technology/7_internet_words_you_ve_been_mispronouncing_like_gif)
+* [» Люди не умеют оценивать Блог аджайл коуча](http://www.agilecoach.ru/blog/2011/10/%D0%BB%D1%8E%D0%B4%D0%B8-%D0%BD%D0%B5-%D1%83%D0%BC%D0%B5%D1%8E%D1%82-%D0%BE%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D1%82%D1%8C/)
+* [What makes programming languages really powerful? | sembera\'s coding thoug](http://semberal.eu/blog/what-makes-programming-languages-really-powerful)
+* [10  HTML Best practices for Web Developer | Blog | Anson Cheung](http://www.ansoncheung.tk/articles/10-html-best-practices-web-developer)
+* [InversionOfControl](http://martinfowler.com/bliki/InversionOfControl.html)
+* [karmajunkie/imperator](https://github.com/karmajunkie/imperator)
+* [Backbone.js, CoffeeScript, Jasmine, HAML and Rails working together by Jere](http://www.ihid.co.uk/blog/backbone-js-coffeescript-jasmine-haml-and-rails-working-together)
+* [CSRF and Rails - BigBinary Blog](http://blog.bigbinary.com/2012/05/10/csrf-and-rails.html)
+* [XSS and Rails - BigBinary Blog](http://blog.bigbinary.com/2012/05/10/xss-and-rails.html)
+* [Five Common Rails Mistakes](http://www.mikeperham.com/2012/05/05/five-common-rails-mistakes/)
+* [Bozho\'s tech blog » Javascript-off Unfriendly, And Proud About It](http://techblog.bozho.net/?p=873)
+* [Bozho\'s tech blog » ORM Haters Don’t Get It](http://techblog.bozho.net/?p=886)
+* [Fixing GitHub\'s News Feed — adammck.com](http://adammck.com/2012/03/01/fixing-githubs-news-feed.html)
+* [Self Documenting - The Daily WTF](http://thedailywtf.com/Articles/Self-Documenting.aspx)
+* [Specifications Pattern with LINQ | Nilesh Gule\'s Technical Blog](http://www.nileshgule.com/2011/07/specifications-pattern-with-linq.html)
+* [#348 The Rails API Gem](http://railscasts.com/episodes/348-the-rails-api-gem)
+* [What should every programmer know about security? - Stack Overflow](http://stackoverflow.com/questions/2794016/what-should-every-programmer-know-about-security)
+* [Безопасная публикация и инициализация Java-объектов, или #когдаужепочинятdo](http://habrahabr.ru/post/143390/)
+* [Java Memory Model вкратце | Java Specialist](http://www.javaspecialist.ru/2011/06/java-memory-model.html)
+* [CSS Tricks: How to Speed Up CSS Rendering | Onextrapixel - Web Design & Dev](http://www.onextrapixel.com/2012/05/03/css-tricks-how-to-speed-up-css-rendering/)
+* [Hacker Says - quotes from hackers to hackersHacker Says - quotes from hacke](http://www.reddit.com/r/programming/comments/tda7h/hacker_says_quotes_from_hackers_to_hackers/)
+* [Explore alternative languages for the Java platform](http://www.reddit.com/r/programming/comments/td9gh/explore_alternative_languages_for_the_java/)
+* [What\'s The Best Language For Safety Critical Software?](http://www.reddit.com/r/programming/comments/te5rb/whats_the_best_language_for_safety_critical/)
+* [Backporting a topic branch with git — davisagli](http://davisagli.com/blog/backporting-a-topic-branch-with-git)
+* [What are some popular myths in software development? | Pixelstech.net](http://pixelstech.net/article/index.php?id=1335952321)
+* [Linux по-русски. У.Дреппер. Что каждый программист должен знать о памяти.](http://rus-linux.net/lib.php?name=/MyLDP/hard/memory/memory.html)
+* [рабочие заметки: (Un)Safe publication](http://cheremin.blogspot.com/2012/05/unsafe-publication.html)
+* [The Codist](http://thecodist.com/article/interviews_can_be_a_terrible_way_to_identify_good_programmers)
+* [OrmHate](http://martinfowler.com/bliki/OrmHate.html)
+* [Модель памяти в примерах и не только / Хабрахабр](http://habrahabr.ru/post/133981/)
