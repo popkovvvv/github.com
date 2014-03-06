@@ -1,11 +1,11 @@
 # This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:year/:month/:day/:title
+markdown: kramdown
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock", "*.adoc"]
 pygments: true
-
+gems: ["asciidoctor"]
 
 title : Simple <small>things</small> Obvious <small>thoughts</small>
 tagline: Programming
@@ -15,6 +15,12 @@ author :
   github : f0y
   twitter : _f0y
 
+# Asciidoc config
+# asciidoctor:
+#   attributes:
+#     - hardbreaks!
+#     - source-highlighter=coderay
+#     - coderay-css=style
 
 production_url : http://f0y.me
 archive_path: /posts.html
