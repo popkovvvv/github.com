@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Welcome
 ---
 
 <img class='inset right' src='/assets/img/photo.jpg' title='Oleg Kandaurov' alt='Photo of Oleg Kandaurov' width='120px' />
