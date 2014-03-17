@@ -7,7 +7,7 @@ exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock", "*.adoc"]
 pygments: true
 gems: ["asciidoctor"]
 
-title : Simple <small>things</small> Obvious <small>thoughts</small>
+title : Simple things Obvious thoughts
 tagline: Programming
 author :
   name : Oleg Kandaurov
