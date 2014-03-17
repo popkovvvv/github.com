@@ -4,6 +4,9 @@ title: "Concurrency: 6 способов жить с shared state"
 category : Programming
 ---
 
+Опубликовано на <http://habrahabr.ru/post/216049/>
+{:.quiet}
+
 <img class="left" width="200" src="http://habrastorage.org/files/ba9/036/9c0/ba90369c0bcc45e79e80c41d16621b40.jpg">
 
 
