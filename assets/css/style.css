@@ -273,8 +273,8 @@ body#Kith #header a.kith
 .footnotes ol li {
     list-style-type: decimal;
     list-style-position: inside;
-    font-size: 75%;
-    line-height: 1.5em;
+    /*font-size: 75%;*/
+    /*line-height: 1.5em;*/
 }
 .footnotes ol li > a { display: none; }
 /* @end */
