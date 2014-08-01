@@ -14,6 +14,12 @@ Java/JVM
 * Bruce Eckel - Thinking in Java
 * Brian Goetz - Java Concurrency in Practice
 * Venkat Subramaniam - Concurrency on JVM
+* Alvin Alexander - Scala Cookbook
+* Nilanjan Raychaudhuri - Scala in Action
+* Martin Odersky - Programming in Scala
+* Venkat Subramaniam - Functional Programming in Java
+* Cay Horstmann - Java SE 8 for the Really Impatient
+
 
 Engineering
 ====
@@ -25,6 +31,7 @@ Engineering
 * Марк Гранд - Шаблоны проектирования в Java
 * Patterson, Armando - Engineering Long-Lasting Software
 * Gregor Hohpe - Enterprise Integration Patterns
+* Robert Martin - Clean Code
 
 Other
 ====
@@ -34,6 +41,10 @@ Other
 * Бланшет,Саммерфилд - QT4 Программирование GUI на C++
 * Марк Лутц - Изучаем Python
 * Dave Thomas - Programming Ruby 1.9
+* Jahlom Agboado - Ember.js Guides
+* Andy Hunt - Pragmatic Thinking and Learning
+* Benjamin Muschko - Gradle in Action
+
 
 C/C++
 ====
