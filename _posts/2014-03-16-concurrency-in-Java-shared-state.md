@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Concurrency: 6 способов жить с shared state"
-category : Programming
+tags : [programming]
 ---
 
 Опубликовано на <http://habrahabr.ru/post/216049/>

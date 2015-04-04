@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading on Weekends 1"
-category : Links
+tags : [links, programming]
 ---
 
 * [Dodgy Coder: How to Become a Better Programmer](http://www.dodgycoder.net/2011/10/how-to-become-better-programmer.html)

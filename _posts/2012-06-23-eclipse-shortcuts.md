@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Eclipse shortcuts"
-category : Programming
+tags : [programming]
 ---
 
 ## Viewing

@@ -2,7 +2,7 @@
 layout: post
 title: "English thoughts"
 description: ""
-category : English
+tags : [english]
 ---
 
 I am starting writing in order to improve my English skills. If you are good _in_ | _at_ English, please, PLEASE do not read this, cause it can damage your brain. Actually, I do not recommend reading this and consequent posts at all.

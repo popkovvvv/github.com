@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading on Weekends 4"
-category : Links
+tags : [links, programming]
 ---
 
 * [Top 5 Reasons for Not Using JavaDoc in the Next Project - Java Code Geeks](http://www.javacodegeeks.com/2012/06/top-5-reasons-for-not-using-javadoc-in.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JavaCodeGeeks+%28Java+Code+Geeks%29&utm_content=Google+Reader)

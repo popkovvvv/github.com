@@ -2,7 +2,7 @@
 layout: post
 title: "Redmine Private Wiki Plugin"
 description: "Plugin for project management system"
-category : Programming
+tags : [programming]
 ---
 
 Недавно написал плагин для Redmine и вот только сейчас выложил на github.

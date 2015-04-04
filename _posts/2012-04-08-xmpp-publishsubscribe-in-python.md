@@ -2,7 +2,7 @@
 layout: post
 title: "XMPP Publish/Subscribe in python"
 description: ""
-category : Programming
+tags : [programming]
 ---
 
 Доброго времени суток! В данной статье я расскажу о том, как сделать базовую реализацию <a

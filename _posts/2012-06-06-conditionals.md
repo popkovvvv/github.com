@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Conditionals"
-category : English
+tags : [english]
 ---
 
 ## 3 типа условных предложений:

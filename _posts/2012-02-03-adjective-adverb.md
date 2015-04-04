@@ -2,7 +2,7 @@
 layout: post
 title: "Adjective and Adverb"
 description: "English grammar for newbies"
-category : English
+tags : [english]
 ---
 
 Наверное все знают, как образовываются adverb в английском языке.

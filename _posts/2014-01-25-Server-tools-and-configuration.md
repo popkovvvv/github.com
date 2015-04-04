@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Server tools and configuration"
-category : Programming
+tags : [programming]
 ---
 
 У меня есть небольшой сервер, на котором установлено много всяких программ. 

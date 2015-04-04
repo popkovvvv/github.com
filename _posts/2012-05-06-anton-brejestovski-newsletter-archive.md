@@ -2,7 +2,7 @@
 layout: post
 title: "Anton Brejestovski Newsletter Archive"
 description: ""
-category : English
+tags : [english]
 ---
 
 Сборник материалов по Английскому языку от Антона.

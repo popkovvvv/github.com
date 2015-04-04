@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Вопросы к работодателю"
-category : Life
+tags : [programming]
 ---
 
 Собрал вопросы к работодателю, брал вдохновление [отсюда](https://github.com/ChiperSoft/InterviewThis/blob/master/InterviewThis.md)  

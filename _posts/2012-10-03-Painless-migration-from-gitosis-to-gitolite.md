@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Painless migration from gitosis to gitolite"
-category : Programming
+tags : [programming]
 ---
 
 Gitosis уже не поддерживается, и не за горами стабильный релиз Debian Wheezy, на котором его уже не будет. Поэтому было принято решение о миграции на gitolite. Не смотря на то, что есть соответствующий мануал [http://sitaramc.github.com/gitolite/gsmigr.html](http://sitaramc.github.com/gitolite/gsmigr.html), он не даёт ответа на вопрос - "Как сделать это безболезненно?". Об этом сейчас и пойдёт речь.

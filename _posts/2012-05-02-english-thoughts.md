@@ -2,7 +2,7 @@
 layout: post
 title: "English thoughts"
 description: ""
-category : English
+tags : [english]
 ---
 
 In previous post I wrote about CVs. I will continue this topic a bit later. 

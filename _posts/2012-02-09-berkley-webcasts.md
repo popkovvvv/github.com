@@ -2,7 +2,7 @@
 layout: post
 title: "Berkley Webcasts"
 description: "Programming lectures"
-category : Programming
+tags : [programming]
 ---
 
 Сегодня пришло уведомление, что доступна книга для курса saas-class.org.

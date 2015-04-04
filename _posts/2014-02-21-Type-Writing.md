@@ -1,11 +1,10 @@
 ---
 layout: post
 title: "Как я учился слепой печати"
-category : Life
+tags : [programming]
 ---
 
 Опубликовано на <http://habrahabr.ru/post/213457>
-{:.quiet}
 
 <img class="left" width="250" src="http://habrastorage.org/getpro/habr/post_images/e32/fa1/14c/e32fa114c7d0cde91e8b9ff573f340ea.jpg">
 

@@ -1,27 +1,61 @@
-# This is the default format.
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:year/:month/:day/:title
-markdown: kramdown
+# Site wide configuration
 
-exclude: ["README.md", "Rakefile", "Gemfile", "Gemfile.lock", "*.adoc"]
-pygments: true
-gems: ["asciidoctor"]
+title:            Simple things Obvious thoughts
+locale:           en_US
+url:              http://f0y.me              
 
-title : Simple things Obvious thoughts
-tagline: Programming
-author :
-  name : Oleg Kandaurov
-  email : kandaurovoleg@gmail.com
-  github : f0y
-  twitter : _f0y
 
-# Asciidoc config
-# asciidoctor:
-#   attributes:
-#     - hardbreaks!
-#     - source-highlighter=coderay
-#     - coderay-css=style
+# Jekyll configuration
 
-production_url : http://f0y.me
-archive_path: /posts.html
-categories_path: /categories.html
+permalink:   /:year/:month/:day/:title
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+# Site owner
+owner:
+  name: Oleg Kandaurov
+  avatar: photo.jpg
+  bio: "Software Engineer"
+  email: kandaurovoleg@gmail.com
+  disqus-shortname: olegkandaurov
+  twitter: _f0y
+  facebook: kandaurovoleg
+  google:
+    plus: OlegKandaurov
+    analytics: UA-34219883-1
+    verify: WBMjEH44UFidQZuX_3cVTg2Vp-hGKLfW4hfNx7qYc5Y
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: f0y
+  stackoverflow: 510679/oleg-kandaurov
+  linkedin: kandaurovoleg
+  feedburner: olegkandaurov
+  vkontakte: kandaurovoleg
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: f0y0u
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "*.adoc*", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

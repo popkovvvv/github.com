@@ -2,7 +2,7 @@
 layout: post
 title: "SaaS class"
 description: "software as a service e-learning"
-category : Programming
+tags : [programming]
 ---
 
 Ну вот и всё, подошёл к концу SaaS курс. Как итог, мне очень понравился Руби. И я просто в восторге, насколько язык мощный и элегантный. Далее немного советов и размышлений.

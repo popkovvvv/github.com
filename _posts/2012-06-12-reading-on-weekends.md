@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reading on Weekends 3"
-category : Links
+tags : [links, programming]
 ---
 
 * [Exhibit vs Presenter :: Mike Pack Development](http://mikepackdev.com/blog_posts/31-exhibit-vs-presenter)

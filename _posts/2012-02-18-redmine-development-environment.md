@@ -2,7 +2,7 @@
 layout: post
 title: "Redmine Development Environment"
 description: "Installation guide"
-category : Programming
+tags : [programming]
 ---
 
 Доброе время суток! Суббота, болею, изучаю Ruby on Rails. Решил написать, то как правильно готовить окружение для разработки.
