@@ -2,7 +2,7 @@
 
 title:            Simple things Obvious thoughts
 locale:           en_US
-url:              http://f0y.me              
+url:              http://f0y.github.io              
 
 
 # Jekyll configuration
@@ -45,7 +45,7 @@ owner:
   feedburner: olegkandaurov
   vkontakte: kandaurovoleg
   xing: #username
-  instagram: #username
+  instagram: _f0y
   lastfm: #username
   tumblr: #username
   pinterest: #username
